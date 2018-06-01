@@ -27,5 +27,5 @@ puts (1..10).any? {|i| i % 3 ==0}
 # are all of them meets this requirement. return in boolean true/false
 puts (1..10).all? {|i| i % 3 ==0}
 
-# 
+# delete the values from array if it is match
 puts [*1..10].delete_if {|i| i % 3 ==0}
