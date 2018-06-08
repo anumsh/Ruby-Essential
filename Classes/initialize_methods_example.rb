@@ -21,6 +21,7 @@
      def color
          "the color is #{@color}."
      end
+ end
 
 animal1 = Animal.new("Moo!", 4, 0) # initialize the values
 animal1.name= "Steve"  # set the name
