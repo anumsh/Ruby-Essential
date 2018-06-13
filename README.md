@@ -4,8 +4,14 @@ The repository consist of Ruby Basics.
 
 # Topics cover 
 - Introduction
--Installation
--Object Types
+- Installation
+- Object Types
 - Control Structure
 - Loops
-_Iterators
+_ Iterators
+- Code Blocks
+- Methods
+- Classes
+- Modules
+- Working with Files
+
